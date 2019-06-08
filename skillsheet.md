@@ -112,3 +112,8 @@
   - [Scalatra](http://scalatra.org/) / [Finatra](https://github.com/twitter/finatra)
   - [Django](https://www.djangoproject.com/) / [Flask](http://flask.pocoo.org/) / [Tornado](http://www.tornadoweb.org/)
 
+
+## 職務経歴
+
+[別紙](https://github.com/h-oikawa-jp/skillsheet/blob/doc/resume/20190608.pdf)参照
+<!-- TODO: ドキュメントをMarkdown化 -->

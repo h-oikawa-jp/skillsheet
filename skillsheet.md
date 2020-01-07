@@ -115,5 +115,4 @@
 
 ## 職務経歴
 
-[別紙](https://github.com/h-oikawa-jp/skillsheet/blob/doc/resume/20190721.pdf)参照
-<!-- TODO: ドキュメントをMarkdown化 -->
+[別紙](https://github.com/h-oikawa-jp/skillsheet/blob/doc/resume/latest.pdf)参照

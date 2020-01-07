@@ -7,7 +7,6 @@
 |Name|Hiroyuki Oikawa|
 |GitHub|[h-oikawa-jp](https://github.com/h-oikawa-jp)|
 |Qiita|[h-oikawa](https://qiita.com/h-oikawa)|
-|Twitter|[h-oikawa@Q.kanshi](https://twitter.com/Qkanshi)|
 
 
 ## スキル

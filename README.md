@@ -5,4 +5,4 @@
 # 職務経歴書
 
 - [Markdown版](https://github.com/h-oikawa-jp/skillsheet/blob/master/skillsheet.md)
-- [PDF版](https://gitprint.com/h-oikawa-jp/skillsheet/blob/master/skillsheet.md)
+- [PDF版](https://github.com/h-oikawa-jp/skillsheet/blob/doc/resume/latest.pdf)

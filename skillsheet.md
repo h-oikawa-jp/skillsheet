@@ -16,16 +16,13 @@
   - Java
   - Kotlin
   - Scala
-  - HTML ([Pug](https://pugjs.org/)) / CSS ([Sass](https://sass-lang.com/) / [Stylus](http://stylus-lang.com/))
-  - JavaScript / Node.js
+  - TypeScript / Node.js
   - Standard SQL
-- 以下も書けなくはない
+- サブ言語
   - Python
   - Ruby
   - Swift
   - C#
-  - VB
-  - VBA
   - ShellScript
 
 ### フレームワーク
@@ -39,20 +36,25 @@
   - Seaser2
 - Scala
   - Play2 Framework
-    - Slick
+  - Slick
+  - scalaz/cats
 - Serverless Framework
 - Ruby on Rails
+- NestJS
 - SPA
   - React
     - Redux
   - Vue
     - Vuex
     - Nuxt.js
+  - AngularJS
+  - Svelte
 - CSS F/W
   - [Bootstrap](https://getbootstrap.com/)
   - [Vuetify](https://vuetifyjs.com/)
   - [Bulma](https://bulma.io/)
   - [Semantic UI](https://semantic-ui.com/)
+  - [MUI](https://mui.com/)
 
 ### DB
 
@@ -83,11 +85,10 @@
     - Cloud Function
     - Firebase Hosting
 - Apache / Nginx
-- 非エンジニア時代に多少の経験あり
-  - WordPress
-  - Adobe
-    - Illustrator
-    - Photoshop
+- WordPress
+- Adobe
+  - Illustrator
+  - Photoshop
 
 
 
@@ -105,13 +106,10 @@
 - Kubernetes
 - 言語
   - Haskel
+  - Rust
   - Elixir
 - F/W
   - [Ktor](https://ktor.io/)
   - [Scalatra](http://scalatra.org/) / [Finatra](https://github.com/twitter/finatra)
   - [Django](https://www.djangoproject.com/) / [Flask](http://flask.pocoo.org/) / [Tornado](http://www.tornadoweb.org/)
-
-
-## 職務経歴
-
-[別紙](https://github.com/h-oikawa-jp/skillsheet/blob/doc/resume/latest.pdf)参照
+  - tRPC/oRPC
